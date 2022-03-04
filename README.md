@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Estudante de ADS
 - 👨‍💻 Atualmente estou aprendendo: Javascript
-- 📬 E-mail: diegomoralesznsz@gmail.com
 
 <div align="center">
   <a href="https://github.com/moraleszn">
