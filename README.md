@@ -16,11 +16,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/773045823603998781/949427240419098735/tumblr_7c5bdd749620e871d557f8ef9b837b05_33c78ded_540.gif">
 </div>
-  
-## 
-
-<div
- 
-  <a href="https://instagram.com/diemorales_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
