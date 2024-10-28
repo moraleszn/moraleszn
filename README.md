@@ -1,7 +1,6 @@
 
 
 - 👨‍🎓 Estudante de ADS
-- 👨‍💻 Atualmente estou aprendendo: Javascript
 
   
   <div style="display: inline_block"><br>
