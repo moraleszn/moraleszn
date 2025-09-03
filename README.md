@@ -18,6 +18,16 @@
 <br/>
 <br/>
 
+### 📫 Contatos
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/odiegomorales/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href = "mailto:diegomorales.tecno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  </a>
+</div>
+
 <p>
   <img 
     align="left" 
@@ -35,16 +45,3 @@
   />
 
 </p>
----
-<br/>
-<br/>
-
-### 📫 Contatos
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/odiegomorales/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <a href = "mailto:diegomorales.tecno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  </a>
-</div>
